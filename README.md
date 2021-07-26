@@ -1,1 +1,2 @@
 # codecna
+updating for traning
